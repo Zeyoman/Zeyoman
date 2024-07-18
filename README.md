@@ -13,6 +13,8 @@ I like : TS, React, IOS, JS, CSS, Symfony, Python, animals, food, langages...;
 
 I don't like : Coffee;
 
+I'm currently in intership with https://gotobabylone.com/, ( i finish it the 1st September )
+
 I'm looking for an internship;
 
 You can reach me on mail : Pumpalovic.Alexandre@gmail.com;
