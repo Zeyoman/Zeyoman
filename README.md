@@ -15,5 +15,5 @@ I don't like : Coffee;
 
 I'm currently in intership with Kaviar tech,
 
-You can reach me on mail : Pumpalovic.Alexandre@gmail.com;
+You can reach me by email : Pumpalovic.Alexandre@gmail.com;
 
