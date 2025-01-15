@@ -13,7 +13,7 @@ I like : TS, React, IOS, JS, CSS, Symfony, Python, animals, food, langages...;
 
 I don't like : Coffee;
 
-I'm currently doing an apprenticeship with Kaviar Tech as a full-stack developer.
+I'm currently looking for an apprenticeship.
 
 You can reach me by email : Pumpalovic.Alexandre@gmail.com;
 
