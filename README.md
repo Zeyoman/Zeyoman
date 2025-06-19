@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 i'm interested in web development, front and back, my goal is to be a Full Stack developer;
 
-I like : TS, React, IOS, JS, CSS, Symfony, Python, animals, food, langages...;
+I like : Node, TS, React, IOS, JS, CSS, Symfony, Python, animals, food, langages...;
 
 I don't like : Coffee;
 
